@@ -1,6 +1,6 @@
-# Linguagem C ![GitHub repo size](https://img.shields.io/github/repo-size/Yordle-Cyber/c)![GitHub](https://img.shields.io/github/license/Yordle-cyber/C)![YouTube Video Likes](https://img.shields.io/youtube/likes/dpjH_tsUJ6w?style=social)
-## Curso - primeiros passos com a linguagem C
-Aprendendo Linguagem C de Forma simples
+# OLHA STHER ![GitHub repo size](https://img.shields.io/github/repo-size/Yordle-Cyber/c)![GitHub](https://img.shields.io/github/license/Yordle-cyber/C)![YouTube Video Likes](https://img.shields.io/youtube/likes/dpjH_tsUJ6w?style=social)
+## Curso - Mais fácil que jogar de poppy
+aqui pa tu oh
 
 ![menina beijo](https://github.com/Yordle-Cyber/c/blob/main/f4db9ebe387a1e8a1971e551958b7174.gif)
 ### Video onde estou aprendendo
