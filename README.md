@@ -1,4 +1,4 @@
-# Linguagem C
+# Linguagem C ![GitHub repo size](https://img.shields.io/github/repo-size/Yordle-Cyber/c)![GitHub](https://img.shields.io/github/license/Yordle-cyber/C)![YouTube Video Likes](https://img.shields.io/youtube/likes/dpjH_tsUJ6w?style=social)
 ## Curso - primeiros passos com a linguagem C
 Aprendendo Linguagem C de Forma simples
 
